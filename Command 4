@@ -1,0 +1,11 @@
+bot.command({
+name: "Wiki category",
+code: There are many categories of pages in Shadow Thieves Wiki. There also some content moderator at the wiki. This list is the current categories at the wiki. We will expand when all this is done. 
+1) Shadow Thieves Hub server ( done )
+2) Official PJ Masks server ( done )
+3) Server Bot
+4) BBBNAQ ( done )
+5) PJ Masks
+6) Youtube ( done )
+7) Small Pig Announce News ( done )
+})
