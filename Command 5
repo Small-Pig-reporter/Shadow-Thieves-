@@ -1,0 +1,9 @@
+bot.command({
+name: "Wiki Admin",
+code: There are some admin of the Shadow Thieves wiki.
+1) Small Pig reporter ( active ) Sysop of the wiki. Take care all part of the wiki. Head Admin
+2) Jeston T ( partial active ) Second account of Small Pig reporter. Sysop of the wiki: Expanding admin. Head admin
+3) Wakjawa ( offline ) Content Moderator of all PJ Masks Caterogies. Expander of PJ Masks Categories
+4) Blackwolfe ( offline ) Helper of the wiki.
+5) Cru ( Partial active ) Helper of the wiki.
+})
