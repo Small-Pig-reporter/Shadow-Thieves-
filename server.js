@@ -6,3 +6,10 @@ prefix: "Wiki"
 })
  
 bot.onMessage()
+
+bot.status({
+      text: "Shadow Thieves community bot"
+      type: "PLAYING"
+      time: 12
+})
+
