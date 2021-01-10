@@ -1,0 +1,5 @@
+bot.command({
+name: "Leaderboard",
+code: There are a leaderboard of the wiki. The leaderboard count is from the badge point u get.
+Here the leaderboard:https://shadowthieves.fandom.com/wiki/Special:Leaderboard
+})
