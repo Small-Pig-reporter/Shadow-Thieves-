@@ -1,0 +1,4 @@
+bot.command({
+name: "Main Page of the wiki",
+code: This is the main page of Shadow Thieves Wiki. https://shadowthieves.fandom.com/wiki/Small_Pig_Announce_News_Wiki
+})
