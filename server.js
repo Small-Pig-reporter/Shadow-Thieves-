@@ -1,8 +1,8 @@
 const dbd = require("dbd.js")
  
-const bot = Shadow Thieves wiki bot({
+const bot = new dbd.bot({
 token: process.env.TOKEN, 
-prefix: "Wiki" 
+prefix: "!" \\just example
 })
  
 bot.onMessage()
